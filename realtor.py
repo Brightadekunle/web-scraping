@@ -3,9 +3,10 @@ import requests
 import json
 import csv
 
+
 class realtorscraper():
-    result=[]
-    headers={
+    result = []
+    headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
         'accept-encoding': 'gzip, deflate, br',
         'accept-language': 'en-US,en;q=0.9',
@@ -14,11 +15,11 @@ class realtorscraper():
         'pragma': 'no-cache',
         'upgrade-insecure-requests': '1',
         'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
-        }
+    }
 
     def fetch(self, url, params):
-        print('HTTP GET request to URL: %s' %url, end='')
-        res=requests.get(url, params=params, headers=self.headers)
+        print('HTTP GET request to URL: %s' % url, end='')
+        res = requests.get(url, params=params, headers=self.headers)
         print(' status code: %s' % res.status_code)
         return res
 
@@ -27,35 +28,40 @@ class realtorscraper():
             html_file.write(res)
 
     def load_response(self):
-        html=''
+        html = ''
         with open('res.html', 'r', encoding="utf-8") as html_file:
             for line in html_file:
-                html+=line
+                html += line
         return html
 
     def parse(self, html):
-        content=bs4(html, 'lxml')
-        cards=content.findAll('li', {'class':"jsx-3446352583 component_property-card"})
+        content = bs4(html, 'lxml')
+        cards = content.findAll(
+            'li', {'class': "jsx-3446352583 component_property-card"})
         for card in cards:
             try:
-                sqft=card.find('ul', {'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[2].text.split('s')[0]
+                sqft = card.find('ul', {
+                                 'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[2].text.split('s')[0]
             except:
-                sqft='Null'
+                sqft = 'Null'
 
             try:
-                sqftlot=card.find('ul', {'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[3].text.split('s')[0]
+                sqftlot = card.find('ul', {
+                                    'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[3].text.split('s')[0]
             except:
-                sqftlot='Null'
+                sqftlot = 'Null'
 
             try:
-                ba=card.find('ul', {'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[1].text.split('b')[0]
+                ba = card.find('ul', {
+                               'class': 'jsx-1140360578 property-meta list-unstyled'}).findAll('li')[1].text.split('b')[0]
             except:
-                ba='Null'
+                ba = 'Null'
 
             try:
-                bds=card.find('li', {'class': 'jsx-1140360578 prop-meta srp_list'}).text.split('b')[0]
+                bds = card.find(
+                    'li', {'class': 'jsx-1140360578 prop-meta srp_list'}).text.split('b')[0]
             except:
-                bds='Null'
+                bds = 'Null'
 
             self.result.append({
                 'price': card.find('div', {'class': 'jsx-543673669 price'}).text,
@@ -65,28 +71,30 @@ class realtorscraper():
                 'sqft': sqft,
                 'sqftlot': sqftlot
             })
-            
+
             # print(json.dumps(items, indent=2))
 
     def to_csv(self):
         # pass
         with open('realtor.csv', 'a') as csv_file:
-            writer=csv.DictWriter(csv_file, fieldnames=self.result[0].keys())
+            writer = csv.DictWriter(csv_file, fieldnames=self.result[0].keys())
             writer.writeheader()
 
             for row in self.result:
                 writer.writerow(row)
 
-
     def run(self):
         for page in range(1, 24):
-            params={'searchQueryState': '{"pagination":{"currentPage:"%s},"mapBounds":{"west":-74.4009301328125,"east":-73.5549828671875,"south":40.45924069713026,"north":40.951655440557104},"regionSelection":[{"regionId":6181,"regionType":6}],"isMapVisible":false,"filterState":{"sort":{"value":"globalrelevanceex"}},"isListVisible":True}'%page } 
-            res=self.fetch('https://www.realtor.com/realestateandhomes-search/Kanawha-County_WV', params) 
+            params = {
+                'searchQueryState': '{"pagination":{"currentPage:"%s},"mapBounds":{"west":-74.4009301328125,"east":-73.5549828671875,"south":40.45924069713026,"north":40.951655440557104},"regionSelection":[{"regionId":6181,"regionType":6}],"isMapVisible":false,"filterState":{"sort":{"value":"globalrelevanceex"}},"isListVisible":True}' % page}
+            res = self.fetch(
+                'https://www.realtor.com/realestateandhomes-search/Kanawha-County_WV', params)
             # html=self.load_response()
             self.parse(res.text)
 
         self.to_csv()
 
+
 if __name__ == '__main__':
-    scraper=realtorscraper()
+    scraper = realtorscraper()
     scraper.run()
