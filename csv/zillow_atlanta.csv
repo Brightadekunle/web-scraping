@@ -1,0 +1,801 @@
+price,address,bds,ba,sqft
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$520,000","2075 N Gateway Rd, Las Vegas, NV 89115",8,6,"3,386"
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$520,000","2075 N Gateway Rd, Las Vegas, NV 89115",8,6,"3,386"
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$520,000","2075 N Gateway Rd, Las Vegas, NV 89115",8,6,"3,386"
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"Est. $165,973","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $231,475","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$137,500","900 SW 62nd Blvd APT G37, Gainesville, FL 32607",2,2,"1,106"
+"$114,900","1815 S 11th St, Temple, TX 76504",3,1,"1,201"
+"$324,900","1504 Eastbourne Dr, Wilmington, NC 28411",4,4,"2,362"
+"$32,900","3201 SW 25th St, Oklahoma City, OK 73108",2,1,744
+"$520,000","2075 N Gateway Rd, Las Vegas, NV 89115",8,6,"3,386"
+"$239,900","84 Foxwood Rd, Bristol, CT 06010",3,3,"2,119"
+"$75,000","9058 Road 10 NE, Moses Lake, WA 98837",4.65,Null,Null
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"Est. $161,089","706 W Ringwood Rd, Mchenry, IL 60051",4,1.5,"1,248"
+"Est. $232,495","998 Butler Dr, Crystal Lake, IL 60014",4,3,"2,057"
+"Est. $173,641","169 S Madison St, Oswego, IL 60543",--,--,"1,744"
+$--,"135 Bryant St, Battle Creek, MI 49017",--,--,--
+"Est. $8,179,050","5445 N Dentwood Dr, Dallas, TX 75220",4,10,"13,663"
+"$418,000","3708 Kirby Cv, Round Rock, TX 78681",4,4,"3,283"
+"$184,900","2716 Weldon Ter, Durham, NC 27703",3,1,"1,028"
+"$199,900","818 Shay Dr, Durham, NC 27704",3,2,"1,374"
+"$390,000","2560 Forest Glen Estates Ct, Pacific, MO 63069",5,4,"4,244"
+"$79,900","1329 54th Ave E #16B, Bradenton, FL 34203",2,1,780
+"$525,000","3950 Marine Pkwy, New Port Richey, FL 34652",2,2,"1,963"
+"$119,000","391 Cherokee Ct #391, Altamonte Springs, FL 32701",2,2,"1,173"
+"$200,000","745 E Bradley Ave UNIT 48, El Cajon, CA 92021",2,1,806
+"$520,000","27275 Yale St, Hemet, CA 92544",3,2,"1,512"
+"$554,900","199 Promenade St, Pomona, CA 91767",3,3,"1,829"
+"$330,000","1271 Grand Ave, Colton, CA 92324",2,2,"1,540"
+"$199,000","5725 Mule Deer Way, Pinetop, AZ 85935",2,1,844
+"$250,000","17556 Hall St, Athens, AL 35611",3,3,"2,150"
+"$209,900","2843 Beechwood Dr, Durham, NC 27707",3,2,"1,116"
+"$2,998,000","237 29th Ave, San Francisco, CA 94121",3,2.5,"2,780"
+"$168,000","414 Glady Ln, Weston, WV 26452",4,2,"1,456"
+"$275,000","532 Craig St, Covington, KY 41011",3,--,"1,736"
+"$499,000","3 Woods Way #3, Redding, CT 06896",4,4,"3,380"
+"$379,500","3125 329th Ave NW, Cambridge, MN 55008",4,3,"2,655"
+"$399,950","2613 S 362nd Pl, Federal Way, WA 98003",3,3,"1,420"
+"$830,000","15681 Glendale Oaks Ln, Fort Myers, FL 33912",3,3,"2,931"
+"$69,900","N 2504 15a St, Waco, TX 76708",--,Null,Null
+"$34,500","N 3554th St, Waco, TX 76708",--,Null,Null
+"$39,900","1604 Summer Ave, Waco, TX 76708",0.28,Null,Null
+"$143,280","0 County Road 33200, Sumner, TX 75486",17.91,Null,Null
+"$404,500","1101 N Hyde Park Way, Mustang, OK 73064",3,3,"2,849"
+"$50,555","3390 W Basin Ave, Pahrump, NV 89060",1.08,Null,Null
+"$69,000","543 Washington St, Mountain View, MO 65548",18,Null,Null
+"$585,000","6320 S Creeksedge Dr #A, Ozark, MO 65721",3,4,"5,105"
+"$644,900","4173 W Highland Fall Ct, Meridian, ID 83646",4,3.5,"3,113"
+"$208,900","756 Springfield Dr, Chelsea, AL 35043",3,2,"1,248"
+"$389,900","6207 NW 164th St, Alachua, FL 32615",3,2,"2,334"
+"$26,000","5 Major Blvd, Natchez, MS 39120",3,1,"1,042"
+"$1,350,000","709 Glyndon St SE, Vienna, VA 22180",4,3,"2,280"
+"$439,990","190 Green Poplar Loop, Clarksburg, MD",4,4,"1,945"
