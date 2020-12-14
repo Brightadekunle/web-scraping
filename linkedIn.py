@@ -60,10 +60,3 @@ class Scraper:
                         'Profile Page': links, 'Employee count': employees}
         df = pd.DataFrame(linkedInData)
         return df.to_csv('linkedIn2.csv')
-
-
-if __name__ == '__main__':
-    username = input('Enter username:')
-    password = input('Enter password:')
-    get = Scraper(username, password)
-    get.getData()
