@@ -11,9 +11,9 @@ data = pd.read_csv('Sample Input.csv')
 
 class Scraper:
 
-    def __init__(self):
-        self.username = 'tolexjoshua@gmail.com'
-        self.password = 'password@1'
+    def __init__(self, username, password):
+        self.username = username
+        self.password = password
         self.driver = webdriver.Chrome()
 
     def CloseBrowser(self):
@@ -60,3 +60,10 @@ class Scraper:
                         'Profile Page': links, 'Employee count': employees}
         df = pd.DataFrame(linkedInData)
         return df.to_csv('linkedIn2.csv')
+
+
+if __name__ == '__main__':
+    username = input('Enter username:')
+    password = input('Enter password:')
+    get = Scraper(username, password)
+    get.getData()
